@@ -1,2 +1,2 @@
-# DIP_proj
+# Super-Resolution
 图像超分辨率算法
